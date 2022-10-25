@@ -1,0 +1,27 @@
+
+
+**Developed by Rebeka Sultana**
+
+**Recommended PHP Version 5.6 and Newer**
+
+**Database Name : sms**
+
+
+1.Admin Login Details
+
+Username   : admin123
+Password   : admin123
+
+
+2.Class Teacher Login Details
+
+contact   : 01622576897
+Password  : swarna
+
+
+3.Teacher Login Details
+
+contact   : 01966402888
+Password  : Tareq
+
+
